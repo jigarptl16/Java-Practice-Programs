@@ -9,10 +9,10 @@ public class MissingNumberInArray
     {
 	int array[] = { 1 };
 	int n = 2;
-	System.out.println(MissingNumber(array, n));
-	System.out.println(getMissingNo(array, array.length));
+	System.out.println(MissingNumber(array, n));// This method given me a "Time Limit Exceeded"
+	System.out.println(getMissingNo(array, array.length));// This was the accepted method
     }
-
+	
     private static int MissingNumber(int array[], int n)
     {
 	int result = 0;

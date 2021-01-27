@@ -13,3 +13,8 @@ Given an array A of N elements. Find the majority element in the array. A majori
 # Leaders in an array
 
 Given an array A of positive integers. Your task is to find the leaders in the array. An element of array is leader if it is greater than or equal to all the elements to its right side. The rightmost element is always a leader. 
+
+# Equilibrium Point
+
+Given an array A of N positive numbers. The task is to find the first Equilibium Point in the array. 
+Equilibrium Point in an array is a position such that the sum of elements before it is equal to the sum of elements after it.
